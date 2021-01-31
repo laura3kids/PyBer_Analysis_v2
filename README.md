@@ -12,7 +12,7 @@ ___
 ### Results
 
 
- * 
+ * Based on the summary below: 
  
     ![Result Summary](https://github.com/laura3kids/PyBer_Analysis_v2/blob/main/analysis/Total_Summary_by_type.png)
   
