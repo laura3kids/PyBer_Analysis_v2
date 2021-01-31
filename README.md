@@ -26,4 +26,8 @@ ___
 
 ![Weekly Fare by City Type](https://github.com/laura3kids/PyBer_Analysis_v2/blob/main/analysis/pyber_challenge.png)
 
+Recommendations to the CEO for addressing any disparities among the city types.
 
+1. Costs for using PyBer are much higher in rural areas, which could be discouraging potential riders from using PyBer. Possible solutions to get more customers in this area would be to offer promotions and investigate group riding options to lower fees. 
+2. Costs could be higher in rural areas due to the mileage being travelled.  To increase the number of rural riders, it might be of use to analyze the distances being drove and offer a lower rate per mile. 
+3. Review date and time trends on when customers use the ride services the least and most.  Increase prices for less demand and decrease prices when there is more demand. 
