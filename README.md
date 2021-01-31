@@ -14,7 +14,7 @@ ___
 
  * 
  
-    ![Result Summary](https://github.com/laura3kids/PyBer_Analysis_v2/blob/main/analysis/Total_Summary_by_type.png(https://github.com/laura3kids/Election_Analysis/blob/main/Total%20Votes.png)
+    ![Result Summary](https://github.com/laura3kids/PyBer_Analysis_v2/blob/main/analysis/Total_Summary_by_type.png)
   
  * 
  * 
