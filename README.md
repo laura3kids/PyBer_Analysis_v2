@@ -14,7 +14,7 @@ ___
 
  Based on the summary below: 
  
-    ![Result Summary](https://github.com/laura3kids/PyBer_Analysis_v2/blob/main/analysis/Total_Summary_by_type.png)
+  ![Result Summary](https://github.com/laura3kids/PyBer_Analysis_v2/blob/main/analysis/Total_Summary_by_type.png)
   
  * Urban cities had the most drivers (2405), provided the most amount of rides (1625), and had the largest collection amount in Total Fares ($39,854.38)
  * Rural cites had the least amount of drivers (78), provided the least amount of rides (125), and had the least collection amount in Total Fares ($4,327.93)
